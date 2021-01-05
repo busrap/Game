@@ -1,0 +1,27 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.oyun.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.oyun.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.oyun.resources
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Eski Calismalar\sehir_bulmaca_oyun\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
